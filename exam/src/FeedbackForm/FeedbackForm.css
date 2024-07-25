@@ -1,0 +1,72 @@
+ /*.feedback1{
+   /* background-image: url("https://cdn.dribbble.com/users/4188895/screenshots/14259405/media/c2c576d70eacf40367bde1c7fc56f1cc.gif");   */
+   /* background-image: url("https://www.zohowebstatic.com/sites/zweb/images/partners/home/main-character.png"); */
+   /* background-size: cover; */
+  
+
+
+.feedback-forme {
+    max-width: 700px;
+    margin: 0 auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    box-shadow: rgba(0, 0, 0, 0.3) 0px 19px 38px, rgba(0, 0, 0, 0.22) 0px 15px 12px;
+    margin-top: 120px;
+    font-family: cursive;
+   margin-left: 300px;
+    margin-top: 91px;
+    color: white;
+   
+  }
+/* .info{
+  background-color:#202d3e ;
+  height: 90px;
+} */
+/* .bla{
+  height: 100px;
+} */
+  .fee {
+    color:white;
+  }
+  
+  .ffform {
+    margin-top: 20px;
+  }
+  
+  .lab {
+    display: block;
+    margin-bottom: 8px;
+    color:white;
+  }
+  
+  .int,
+  .fft {
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 16px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+  }
+  
+  .sub {
+    background-color: #514caf;
+    color: #fff;
+    padding: 10px 15px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  .sub:hover {
+    background-color: #454b45;
+  }
+  
+  .success-messagee {
+    color:#514caf;
+    font-weight: bold;
+    margin-top: 16px;
+  }
+  .FF{
+    background-color:#202d3e
+  }

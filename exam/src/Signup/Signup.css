@@ -1,0 +1,169 @@
+/* .form {
+  display: flex;
+  flex-direction: column;
+  margin: 9px;
+} 
+.unscrollable-container {
+background-image: url("https://media.istockphoto.com/id/1418934806/photo/calendar-and-cup-on-the-table.jpg?s=612x612&w=0&k=20&c=SzpMYBvfPaWC2u9kEOCoSf_NZXA-7K_LKSke5k_O6zg=");
+background-position: left; 
+background-size: cover; 
+
+}
+
+.color { 
+color: #5C4033;
+font-size:medium;
+}
+.sing{
+font-size: medium;
+}
+.formStyle {
+display: flex;
+flex-direction: row;
+}
+
+.imgContainer {
+  width: 80%; 
+  height: 80%;
+  object-fit: cover;
+}
+
+.cover {
+  
+  object-fit: cover;
+  object-position: center; 
+  overflow: -moz-hidden-unscrollable;
+  width: 1000px;
+  height: 100vh;
+  flex-shrink: 0;
+  float: right;
+}
+
+.form {
+  margin-left: 64px;
+  margin-top: 64px;
+}
+.Log{
+  font-family: 'Inter', sans-serif;
+  font-size: 40px;
+  margin: 10px;
+  margin-bottom: 0px;
+  font-weight: bolder;
+}
+
+.terms {
+  font-weight: 400;
+} 
+
+#heading {
+  padding-left: 30px;
+  margin: 0px;
+  margin-bottom: 20px;
+}
+
+label {
+  margin: 20px;
+  font-size: 20px;
+}
+
+.inputbox {
+  margin-left: 40px;
+  height: 40px;
+  border: 1px gray solid;
+  border-radius: 10px;
+  font-size: 16px;
+  text-align: left;
+  padding-left: 15px;
+}
+
+.unscrollable-container {
+    overflow: hidden;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 5px 0;
+    margin-left: 40px;
+    color: black;
+    background-image: url("https://media.istockphoto.com/id/1418934806/photo/calendar-and-cup-on-the-table.jpg?s=612x612&w=0&k=20&c=SzpMYBvfPaWC2u9kEOCoSf_NZXA-7K_LKSke5k_O6zg=");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+
+.submit-btn {
+  margin-left: 40px;
+  height: 40px;
+  border: 1px white solid;
+  border-radius: 10px;
+  background-color: #5C4033;
+  color: white;
+  cursor: pointer;
+}
+
+.submit-btn:disabled {
+  margin-left: 40px;
+  height: 40px;
+  border: 1px white solid;
+  border-radius: 10px;
+  background-color: gray;
+  color: white;
+}
+
+.checkbox-btn {
+  display: flex;
+  flex-direction: row;
+  margin-left: 30px;
+}
+
+.terms {
+  margin-left: 10px;
+}
+
+.check {
+  background-color: lightgreen;
+}
+
+/* span {
+  color: #750E21;
+  text-decoration: underline;
+} */
+/* 
+#buttonOnLogin {
+  margin-left: 24%;
+  margin-top: 20px;
+  text-align: center;
+  border: none;
+  background-color: transparent;
+  cursor: pointer;
+}
+.btn1{
+  margin-left: 40px;
+  height: 40px;
+  border: 1px white solid;
+  border-radius: 10px;
+  background-color: #5C4033;
+  color: white;
+  cursor: pointer;
+}
+.btn2{
+  margin-left: 40px;
+  height: 40px;
+  border: 1px white solid;
+  border-radius: 10px;
+  background-color: #5C4033;
+  color: white;
+  cursor: pointer;
+} */ 
+
+.loginsignup{
+  background-color: #202d3e  ;
+  /* background-image: url("https://www.zohowebstatic.com/sites/zweb/images/partners/home/main-character.png");
+  background-size: cover;
+  background-color: rgba(255, 255, 255, 0.7); /* White with 70% opacity */
+  /* padding: 15px;
+  border-radius: 8px; */ 
+  
+}
+/* .btn-btn-primary{
+  background-color:  #514caf;
+} */

@@ -1,0 +1,88 @@
+.wholie {
+    padding-top: 100px; 
+    text-align: left;
+  
+    margin: 50px auto; 
+    color:black;
+    margin-left: 10px;
+    font-family:'Times New Roman', Times, serif  ;
+ 
+}
+
+/* .wholie1{
+    background-image: url("https://cdn.dribbble.com/userupload/3034187/file/still-4d3d0383a6f4277ee6ced3f477c001fe.png?resize=450x338&vertical=center");
+    background-repeat: no-repeat;
+    background-size: cover;
+} */
+.wholie .calp{
+   color:#202d3e;
+} 
+.wholie .calp{
+   color:#202d3e;
+   
+} 
+
+ /* .wholie1{  
+    color: white; */
+ /* background-image: url("https://i.pinimg.com/originals/99/0c/17/990c1740d2092b9f0538c626ce02813b.gif"); */ 
+  /* background-color:  #202d3e;    
+}  */
+
+.holy{ 
+    margin-left: 90vh;
+    margin-top: -300px;
+}
+nav {
+    position: fixed;
+    top: 0;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 15px;
+    background-color: #202d3e;
+    color: white;
+    z-index: 1000; /* Ensure the navbar is on top of other content */
+  }
+  
+  .nav-logo-container img {
+    height: 50px; /* Adjust the height as needed */
+    margin-bottom: -5%;
+
+  }
+  .meet{
+       color: white;
+  }
+/*   
+  .navbar-links-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-right: 11%;
+    
+  } */
+
+  /* .navbar-links-container a {
+    text-decoration: none;
+    color: white;
+    font-family: 'Trebuchet MS';
+    font-size: large;
+    padding:4%;
+  } */
+  
+  .primary-button {
+    background-color: transparent; /* Adjust the button color */
+    color: white;
+    padding: 10px 20px;
+    border: 2px solid white;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  /* a:hover{
+    color: orange;
+  } */
+  span{
+    font-size: 200%;
+    font-family:'Courier New', Courier, monospace;
+  }
+ 

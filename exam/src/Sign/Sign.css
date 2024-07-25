@@ -1,0 +1,115 @@
+.meets{
+  background-color:  #202d3e;
+}
+
+.add_meeting {
+  max-width: 500px;
+  margin-top: 70px;
+  margin-left: 350px;
+  background-color: #fff;
+  padding: 20px;
+  border-radius: 100px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+
+  
+}
+
+.add_meeting .icon-calendar-empty{
+  color: #000;
+  font-size: 24px;
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.add_meeting .signad {
+  margin-bottom: 20px;
+}
+
+.add_meeting .formad .labad {
+  display: block;
+  margin-bottom: 5px;
+  color: #000;
+}
+
+.add_meeting .formad .adsign {
+  width: 100%;
+  padding: 10px;
+  border-radius: 4px;
+  border: 1px solid #ccc;
+  margin-bottom: 10px;
+}
+
+.add_meeting .formad .adsign::placeholder {
+  color: #999; 
+}
+
+.add_meeting center {
+  text-align: center;
+}
+
+.add_meeting .signbutton {
+  padding: 10px 20px;
+  background-color: #000;
+  color: #fff;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  font-size: 16px;
+}
+
+.add_meeting .signbutton:hover {
+  background-color: #333;
+}
+.Signnn {
+  position: fixed;
+  top: 0;
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 15px;
+  background-color: #202d3e;
+  color: white;
+  z-index: 1000; 
+}
+
+.nav-logo-container .Signimg {
+  height: 50px; 
+  margin-bottom: -5%;
+
+}
+/* .meet{
+     color: white;
+} */
+
+.navbar-links-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-right: 11%;
+  
+}  
+
+/* .navbar-links-container a {
+  text-decoration: none;
+  color: white;
+  font-family: 'Trebuchet MS';
+  font-size: large;
+  padding:4%;
+} */
+
+.primary-button {
+  background-color: transparent; 
+  color: white;
+  padding: 10px 20px;
+  border: 2px solid white;
+  border-radius: 5px;
+  cursor: pointer;
+}
+a:hover{
+  color: orange;
+}
+span{
+  font-size: 200%;
+  font-family:'Courier New', Courier, monospace;
+}

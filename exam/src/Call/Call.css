@@ -1,0 +1,39 @@
+/* body{ */
+  
+  /* background-image: url("https://cdn.dribbble.com/users/6554494/screenshots/14937796/media/678312aa763e54740bfb2cb7186a12bb.gif"); 
+   background-image: url("https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmNwdW5uMmw0dXF6MDE5NXZub2N0ZTk3NjFhNDRlZ2JxNTkxdjA1YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xTiQywlOn0gKyz0l56/giphy.gif"); 
+background-image: url("https://i.pinimg.com/originals/da/8b/6b/da8b6b81ea02ed8742ca41b414a3a002.gif"); */
+
+  /* background-size: cover;
+ top: 10px;
+  background-repeat: no-repeat;
+  left:30%;
+}   */
+/* .calendar-container {
+    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 70vh;
+   top:30%;
+  }
+
+ 
+.buttt{
+       justify-content: center;
+       margin-left: 88vh;
+       margin-top: -5vh;
+} */
+
+/* .App {
+  font-family: sans-serif;
+  text-align: center;
+} */
+
+/* Call.css */
+.calcontain {
+  text-align: center;
+  color: #202d3e;
+  margin-top: 90px;
+  font-size: larger;
+}
